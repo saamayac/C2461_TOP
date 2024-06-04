@@ -19,7 +19,7 @@ This repository contains various implementations for solving the Team Orienteeri
 To use the algorithms provided in this repository, clone the repository and import the desired modules into your project. You can do this with the following commands:
 
 ```bash
-git clone https://github.com/yourusername/TOP-Solver.git
+git clone https://github.com/saamayac/C2461_TOP.git
 ```
 
 ```python
